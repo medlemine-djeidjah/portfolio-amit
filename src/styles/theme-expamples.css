@@ -117,3 +117,99 @@
   --muted: 240 3.7% 15.9%;
   --muted-foreground: 240 5% 64.9%;
 }
+
+/* Ocean theme */
+:root {
+  --background: 199 65% 97%;
+  --foreground: 214 82% 11%;
+  --border: 214 69% 47%;
+  --destructive: 0 80% 65%;
+  --destructive-foreground: 214 82% 11%;
+  --accent: 197 93% 51%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 213 27% 91%;
+  --muted-foreground: 214 82% 11%;
+}
+.dark {
+  --background: 214 82% 11%;
+  --foreground: 0 0% 98%;
+  --border: 214 82% 11%;
+  --destructive: 197 100% 65%;
+  --destructive-foreground: 0 0% 98%;
+  --accent: 197 93% 51%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 214 82% 11%;
+  --muted-foreground: 0 0% 98%;
+}
+
+/* Sunset theme */
+:root {
+  --background: 45 98% 89%;
+  --foreground: 25 89% 15%;
+  --border: 25 89% 45%;
+  --destructive: 0 80% 65%;
+  --destructive-foreground: 25 89% 15%;
+  --accent: 28 100% 50%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 25 89% 90%;
+  --muted-foreground: 0 0% 98%;
+}
+.dark {
+  --background: 25 89% 15%;
+  --foreground: 0 0% 98%;
+  --border: 25 89% 45%;
+  --destructive: 197 100% 65%;
+  --destructive-foreground: 0 0% 98%;
+  --accent: 28 100% 50%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 25 89% 50%;
+  --muted-foreground: 0 0% 98%;
+}
+
+/* Desert theme */
+:root {
+  --background: 39 100% 97%;
+  --foreground: 39 82% 11%;
+  --border: 39 82% 61%;
+  --destructive: 0 80% 65%;
+  --destructive-foreground: 39 82% 11%;
+  --accent: 37 100% 50%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 39 82% 90%;
+  --muted-foreground: 0 0% 98%;
+}
+.dark {
+  --background: 39 82% 11%;
+  --foreground: 0 0% 98%;
+  --border: 39 82% 50%;
+  --destructive: 197 100% 65%;
+  --destructive-foreground: 0 0% 98%;
+  --accent: 37 100% 50%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 39 82% 50%;
+  --muted-foreground: 0 0% 98%;
+}
+
+/* Mountain theme */
+:root {
+  --background: 206 42% 97%;
+  --foreground: 206 42% 11%;
+  --border: 206 42% 61%;
+  --destructive: 0 80% 65%;
+  --destructive-foreground: 206 42% 11%;
+  --accent: 204 100% 58%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 206 42% 90%;
+  --muted-foreground: 0 0% 98%;
+}
+.dark {
+  --background: 206 42% 11%;
+  --foreground: 0 0% 98%;
+  --border: 206 42% 50%;
+  --destructive: 197 100% 65%;
+  --destructive-foreground: 0 0% 98%;
+  --accent: 204 100% 58%;
+  --accent-foreground: 0 0% 98%;
+  --muted: 206 42% 50%;
+  --muted-foreground: 0 0% 98%;
+}
